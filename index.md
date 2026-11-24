@@ -34,6 +34,6 @@ I design and build **open SDR systems for the microwave bands** (13 cm, 6 cm, 3 
 ## Contacts
 
 *   GitHub: [@ra4hgn](https://github.com/ra4hgn)
-*   QRZ: [RA4HGN](https://qrz.com/db/ra4hgn)
+*   QRZ.COM: [RA4HGN](https://qrz.com/db/ra4hgn)
 
 The goal of this site is to document my own experience and make it useful to other amateur radio operators who work with SDR on microwaves.
