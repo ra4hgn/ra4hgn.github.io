@@ -1,3 +1,3 @@
 theme: jekyll-theme-midnight
-title: GNU Radio on Microwaves
-description: Amateur radio experiments with GNU Radio and SDR on microwave bands
+title: Microwave SDR Lab — RA4HGN
+description: Open-source SDR development for the microwave bands — instruments, signal sources, receivers and transceivers. GNU Radio, C/DSP and Python on PlutoSDR
